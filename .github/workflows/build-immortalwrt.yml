@@ -24,6 +24,7 @@ on:
           - 'xiaomi-ax9000'
           - 'h3c-magic-nx30-pro'
           - 'qihoo-360t7'
+          - 'xiaomi-ax3000t'
           - 'xiaomi-wr30u-112m-nmbm'
           - 'xiaomi-wr30u-stock'
           - 'xiaomi-wr30u-ubootmod'
