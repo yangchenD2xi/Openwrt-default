@@ -13,7 +13,7 @@
 
 board = "mediatek"
 subtarget = "mt7986"
-device = "JDCloud RE-CP-03"
+device = "jdcloud_re-cp-03"
 base = "https://git.openwrt.org/openwrt/openwrt.git@master"
 
 device_name = "JDCloud RE-CP-03"
