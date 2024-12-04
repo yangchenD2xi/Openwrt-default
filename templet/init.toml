@@ -25,5 +25,5 @@ git_app = [
   "https://github.com/xiaorouji/openwrt-passwall.git",
   "https://github.com/xiaorouji/openwrt-passwall2.git"
 ]
-login_ip = "192.168.31.1"
-login_pwd = "199657Chen@"
+login_ip = "192.168.21.1"
+login_pwd = "00009999"
