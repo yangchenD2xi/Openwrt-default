@@ -53,6 +53,7 @@ on:
           - 'xiaomi-4c'
           - 'miwifi-3c'
           - 'miwifi-nano'
+          - 'JDCloud RE-CP-03'
       branch:
         description: '选择版本'
         required: true
