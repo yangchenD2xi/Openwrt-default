@@ -14,7 +14,7 @@
 board = "mediatek"
 subtarget = "filogic"
 device = "jdcloud_re-cp-03"
-base = "https://github.com/yangchenD2xi/Openwrt-default.git"
+base = "https://git.openwrt.org/openwrt/openwrt.git@master"
 
 device_name = "JDCloud RE-CP-03"
 app_path = "package/_supply_packages"
