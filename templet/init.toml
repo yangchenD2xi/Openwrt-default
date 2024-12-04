@@ -12,7 +12,7 @@
 # board, subtarget, device, base are required, others are optional
 
 board = "mediatek"
-subtarget = "mt7986"
+subtarget = "filogic"
 device = "jdcloud_re-cp-03"
 base = "https://git.openwrt.org/openwrt/openwrt.git@master"
 
